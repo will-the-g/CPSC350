@@ -2,7 +2,6 @@
 #define TRANSLATOR_H
 using namespace std;
 #include <string>
-#include "model.h"
 class translator{
     public:
         translator();

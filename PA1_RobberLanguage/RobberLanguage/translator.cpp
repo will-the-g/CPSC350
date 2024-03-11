@@ -1,5 +1,5 @@
 #include "translator.h"
-
+#include "model.cpp"
 using namespace std;
 translator::translator(){
 }

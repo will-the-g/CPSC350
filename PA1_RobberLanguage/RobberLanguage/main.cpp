@@ -1,6 +1,6 @@
 #include <string>
 #include <iostream>
-#include "FileProcessor.h"
+#include "FileProcessor.cpp"
 using namespace std;
 int main(int argc, char** argv){
     string inputFile = argv[1];

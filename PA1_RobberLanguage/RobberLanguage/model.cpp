@@ -1,4 +1,5 @@
 #include "model.h"
+#include <string>
 using namespace std;
 model::model(){  
 }
