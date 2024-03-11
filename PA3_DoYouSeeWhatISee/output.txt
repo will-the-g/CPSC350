@@ -1,6 +1,0 @@
-In Column 0. There are 2 that can see. Their heights are: 69.4, 138 inches.
-In Column 1. There are 1 that can see. Their heights are: 65.4 inches.
-In Column 2. There are 4 that can see. Their heights are: 2, 34.1, 70.1, 92.6 inches.
-In Column 3. There are 2 that can see. Their heights are: 75.3, 89.9 inches.
-In Column 4. There are 3 that can see. Their heights are: 75.1, 94.7, 95.1 inches.
-In Column 5. There are 3 that can see. Their heights are: 30.4, 43.5, 56.8 inches.
